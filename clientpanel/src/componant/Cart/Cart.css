@@ -1,0 +1,74 @@
+.empty-cart{
+    text-align: center;
+    margin-top: 10%;
+   
+}
+.border-cart{
+    border: 1px ;
+    margin-left: 130px;
+    margin-right: 130px;
+    padding: 12px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.br{
+    border: 1px;
+    margin: 12px;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.amount{
+    margin-left: 12%;
+    /* text-align: center; */
+    margin-top: -33px;
+    font-weight: 600;
+}
+
+.amount-btn{
+    margin-left: 20%;
+    margin-top: -82px;
+    color: black;
+    background-color: white;
+}
+.margin-id-price-title{
+    margin-right: 318px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+.item-price{
+    font-weight: 600;
+}
+.h1-border{
+    background-color: white;
+    color: black;
+}
+.remove-btn{
+    margin-left: -330px;
+    padding: 7px 24px 3px 17px;
+    background-color: white;
+    color: black;
+}
+/* .cart-total{
+    text-align: center;
+} */
+
+.br1{
+    margin-right: 125px;
+    border: 1px;
+    /* margin: 96px; */
+    border-radius: 12px;
+    box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+    margin-left: 127px;
+    padding: 22px;
+}
+.place-ord{
+    background-color: #12c1be; 
+    margin-left: 722px;
+    /* margin-right: -19px; */
+    /* right: 15px; */
+    margin-top: -62px;
+    padding-top: 12px;
+    padding-right: 53px;
+    padding-left: 53px;
+    padding-bottom: 14px;
+}
